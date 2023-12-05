@@ -6,3 +6,6 @@ rundll32.exe powrprof.dll, SetSuspendState Sleep
 
 REM - create a blank text file from the terminal;
 echo. > file.txt
+
+REM - continuous ping;
+ping <TARGET-IP/DOMAIN> -t
