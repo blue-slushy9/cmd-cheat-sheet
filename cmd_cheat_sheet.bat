@@ -4,4 +4,5 @@ rmdir /s <folder-path>
 REM - put PC to sleep;
 rundll32.exe powrprof.dll, SetSuspendState Sleep
 
-REM -
+REM - create a blank text file from the terminal;
+echo. > file.txt
