@@ -1,0 +1,1 @@
+This is a cheat-sheet of useful cmd commands. Unfortunately, this shell tends to be very confusing and non-intuitive, so I'm hoping this repo helps!
